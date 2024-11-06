@@ -1,0 +1,4 @@
+{"total_rows":2,"offset":0,"rows":[
+{"id":"55cee7b1af7bc0de118a0205a20016a4","key":"55cee7b1af7bc0de118a0205a20016a4","value":{"rev":"2-2a860a9723bb26412632d50550dcb2d6"},"doc":{"_id":"55cee7b1af7bc0de118a0205a20016a4","_rev":"2-2a860a9723bb26412632d50550dcb2d6","rezyser":"James McTeigue","tytul":"V jak Vendetta","kategoria":"Thriller","plik":"v_jak_vendetta.jpg"}},
+{"id":"55cee7b1af7bc0de118a0205a200416d","key":"55cee7b1af7bc0de118a0205a200416d","value":{"rev":"2-de6e1b399d826564333fd7cf11aa9d8a"},"doc":{"_id":"55cee7b1af7bc0de118a0205a200416d","_rev":"2-de6e1b399d826564333fd7cf11aa9d8a","rezyser":"Quentin Dupieux","tytul":"Mordercza Opona","kategoria":"Horror","plik":"mordercza_opona.jpg"}}
+]}
